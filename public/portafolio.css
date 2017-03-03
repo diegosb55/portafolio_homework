@@ -1,6 +1,6 @@
 body{
 color: #27211f;
-background-image: url('background.jpg');
+background-image: url('./background.jpg');
 background-color: #efebdf;
 background-position: center 30px;
 text-align: right;
