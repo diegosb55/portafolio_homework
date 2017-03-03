@@ -1,0 +1,38 @@
+body{
+color: #27211f;
+background-image: url('background.jpg');
+background-color: #efebdf;
+background-position: center 30px;
+text-align: right;
+}
+
+h1, h2, h3, h4, h5 {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+	color:white;
+	font-size: 14px;
+	font-size: 16px;
+
+}
+h1 {
+  font-size: 40px;
+	color:white;
+
+}
+h1, h2, h3, h4 {
+	color:white;
+}
+li {
+	color:white
+}
+
+
+.frame{
+	border: 3px solid white;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
